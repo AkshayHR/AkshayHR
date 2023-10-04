@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AkshayHR
+- 👀 I’m interested in ... Human Resource Data Analytics... 
+- 🌱 I’m currently learning ... Python..
+- 📫 How to reach me ... https://www.linkedin.com/in/akshay-srivastava-2bbaa0153/
